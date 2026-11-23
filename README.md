@@ -4,6 +4,11 @@ Projeto desenvolvido em linguagem C com o objetivo de aplicar conceitos de **Teo
 
 O sistema implementa algoritmos de busca e um mecanismo básico de recomendação de filmes com base na similaridade entre usuários.
 
+## Membros do Grupo
+João Vitor Santiago
+Gabriel Mohamad
+Reinan Morais
+
 ## Objetivos do Projeto
 
 - Representar relacionamentos entre usuários, filmes, atores e diretores por meio de um grafo.
